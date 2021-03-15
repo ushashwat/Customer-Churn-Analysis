@@ -20,3 +20,10 @@ Using 'Churn' as the dependent variable, inferences are made in the notebook usi
 
 ![Image!](https://github.com/ushashwat/Customer-Churn-Analysis/blob/main/images/churn_kde.png) </br>
 
+### Model evaluation
+Model | Accuracy
+----- | -----
+Logistic Regression | 79.15%
+Support Vector Classifier | 78.91%
+Random Forest Classifier | 79.91%
+XGBoost Classifier | 80.00%

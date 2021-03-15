@@ -1,10 +1,10 @@
 # Customer Churn Analysis
-Customer churn rate analysis and prediction </br>
+Analysis of customer churn rate using statistical methods and attrition behavior prediction </br>
 
 ![Image!](https://github.com/ushashwat/Customer-Churn-Analysis/blob/main/images/churn_percent.png) </br>
 
 ### Data Description
-There are still 7043 customers in the database and 20 potential predictors. Each row represents a customer and each column contains customers' attributes described on the column Metadata. </br>
+There are 7043 customers in the database and 20 potential predictors. Each row represents a customer and each column contains customers' attributes described on the column Metadata. </br>
 
 ![Image!](https://github.com/ushashwat/Customer-Churn-Analysis/blob/main/images/var_correlation.png) </br>
 

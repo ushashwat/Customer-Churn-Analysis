@@ -25,5 +25,5 @@ Model | Accuracy
 ----- | -----
 Logistic Regression | 79.15%
 Support Vector Classifier | 78.91%
-Random Forest Classifier | 79.91%
+Random Forest Classifier | 79.57%
 XGBoost Classifier | 80.00%
